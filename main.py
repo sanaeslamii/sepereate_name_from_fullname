@@ -5,3 +5,4 @@ def seprate_name(full_name):
 
 # print(seprate_name(list_of_name[0]))
 print(list(map(seprate_name, list_of_name)))
+print("test2")
